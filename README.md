@@ -24,3 +24,6 @@ https://github.com/LieberLieber/LemonTree.DevOps.Demo/actions/workflows/ReviewCo
 #### Trigger
 Is run on every time you create a "/rebase/" comment in a PR
 #### Action Runs
+https://github.com/LieberLieber/LemonTree.DevOps.Demo/actions/workflows/RebasePRByComments.yml
+#### Notes
+On run the version from the "main" branch is executed and never the version from a feature branch.
