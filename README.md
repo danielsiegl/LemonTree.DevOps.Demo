@@ -1,4 +1,4 @@
-# Showcasing a DevOps approach with LieberLieber LemonTree and Sparx Systems Enterprise Architect
+# Showcasing a DevOps approach using LieberLieber LemonTree and Sparx Systems Enterprise Architect
 
 ## Introduction
 Welcome to the **LemonTree DevOps Demo** — a hands-on showcase of how you can bring modern DevOps workflows to model-based systems engineering (MBSE) using LemonTree and Sparx Systems Enterprise Architect, all orchestrated through GitHub Actions.
